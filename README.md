@@ -52,6 +52,6 @@ Expands outlines into full chapters and creates the main book content.
 Improves clarity, structure, grammar, and flow of the written chapters.
 
 #### 5. Formatting Sub-Agent
-Formats all generated content into clean Markdown, ready for publishing (e.g., with Docusaurus).
+Formats all generated content into clean Markdown, ready for publishing 
 
 ---
